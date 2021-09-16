@@ -24,6 +24,7 @@
 https://user-images.githubusercontent.com/85306141/133691941-a4636944-5388-4636-81e6-b6566849e2c6.mp4
 
 
+![teamGenSample](https://user-images.githubusercontent.com/85306141/133692485-087fdafe-6f2a-4644-86ab-89f09223bddf.PNG)
 
 
 
