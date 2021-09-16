@@ -144,7 +144,7 @@ function employeeData() {
                                    <tbody>
                                        <tr>
                                            <td>${data.managerId}</td>
-                                           <td><a href="${data.managerEmail}">
+                                           <td><a href="mailto:${data.managerEmail}">
                                                <p class="has-text-light">${data.managerEmail}</p>
                                            </a></td>
                                            <td>${data.officeNumber}</td>
@@ -187,7 +187,7 @@ function employeeData() {
                                    <tbody>
                                        <tr>
                                            <td>${data.internId}</td>
-                                           <td><a href="${data.internEmail}">
+                                           <td><a href="mailto:${data.internEmail}">
                                                <p class="has-text-light">${data.internEmail}</p>
                                            </a></td>
                                            <td>${data.school}</td>
@@ -228,11 +228,11 @@ function employeeData() {
                                    <tbody>
                                        <tr>
                                            <td>${data.engineerId}</td>
-                                           <td><a href="${data.engineerEmail}">
+                                           <td><a href="mailto:${data.engineerEmail}">
                                                <p class="has-text-light">${data.engineerEmail}</p>
                                            </a></td>
-                                           <td><a href="https://github.com/{data.github}" target="_blank">
-                                               <p class="has-text-light">{data.github}</p>
+                                           <td><a href="https://github.com/${data.github}" target="_blank">
+                                               <p class="has-text-light">${data.github}</p>
                                            </a></td>
                                        </tr>
                                    </tbody>
