@@ -1,0 +1,27 @@
+{
+  "name": "hw10",
+  "description": "HTML generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoopySquare/HW10.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoopySquare/HW10/issues"
+  },
+  "homepage": "https://github.com/LoopySquare/HW10#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "jest": "^27.2.0"
+  }
+  
+}
